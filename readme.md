@@ -3,7 +3,7 @@
 This ML Model help us to predict the Species of the Iris Flower by entering the values of the Petal Length , Petal width and Sepal Length and width 
 
 ``` 
-https://us-south.ml.cloud.ibm.com/ml/v4/deployments/<Your_API_Key>/predictions?version=2021-05-01
+https://us-south.ml.cloud.ibm.com/ml/v4/deployments/24f450f9-a555-490f-8c1b-6c98398e55d5/predictions?version=2021-05-01
 
 ```
 
